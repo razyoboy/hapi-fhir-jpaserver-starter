@@ -661,7 +661,7 @@ public class AppProperties {
 
   public static class Validation {
 
-    private Boolean requests_enabled = false;
+    private Boolean requests_enabled = true;
     private Boolean responses_enabled = false;
 
     public Boolean getRequests_enabled() {
